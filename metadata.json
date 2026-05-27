@@ -1,0 +1,6 @@
+{
+  "name": "Smart Expense Tracker",
+  "description": "An advanced full-stack personal finance app with cashflow charts, multi-currency base rates, budget thresholds, recurring billing rules, CSV statement ingestion, and a Gemini-powered receipt OCR parser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
