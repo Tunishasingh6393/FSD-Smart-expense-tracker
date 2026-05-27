@@ -94,6 +94,22 @@ Smart-Expense-Tracker-Web-App/
 
 ---
 
+## 📸 Application Live Interfaces
+
+Explore the high-fidelity user interfaces constructed specifically for the Smart Expense Tracker:
+
+### 🟢 Dashboard & Real-Time Financial Trends
+The transactional control center features clean bento-grid modules, instant KPI summary cards (for Inflow, Outflow, Net Surplus, and active overall Budget limits), and responsive data charts plotting cashflow velocity trends and category proportions.
+
+<img src="docs/images/smart_expense_tracker_dashboard.png" alt="Smart Expense Tracker Dashboard Overview" width="100%" style="border-radius:12px; margin-bottom:20px;" referrerPolicy="no-referrer" />
+
+### 🤖 Gemini CFP® Wealth Coach & Receipt OCR Scanner
+Engage in a live connection with our Google Gemini financial consultant or instantly scan standard receipt statements using artificial intelligence to parse and ingest transactions with zero manual typing required.
+
+<img src="docs/images/smart_expense_tracker_ai_advisor.png" alt="Gemini AI Advisor & Receipt Scanner" width="100%" style="border-radius:12px;" referrerPolicy="no-referrer" />
+
+---
+
 ## ⚡ Key Capabilities and Features
 
 | Category | Capability | Technical Details |
